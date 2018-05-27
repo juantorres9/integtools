@@ -7,3 +7,5 @@ pm clear com.parkeon.parking.tariffs.androidservice &&
 sleep 4
 am startservice com.parkeon.parking.tariffs.androidservice/.PpmlService
 echo "fin syncro"
+echo "modif2"
+echo "ba"
